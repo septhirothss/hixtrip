@@ -5,7 +5,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * 支付领域服务
- * todo 不需要具体实现, 直接调用即可
  */
 @Component
 public class PayDomainService {
